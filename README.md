@@ -1,0 +1,1 @@
+# diplom_sql_autotests
